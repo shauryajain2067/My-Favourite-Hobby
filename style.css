@@ -1,0 +1,22 @@
+#ball {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    color: #303F9F;
+}
+
+ body{
+    background-color: #EC407A;
+     text-align:center;
+}
